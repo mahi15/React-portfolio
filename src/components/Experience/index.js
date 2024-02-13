@@ -7,8 +7,8 @@ import TimelineSeparator from '@mui/lab/TimelineSeparator';
 import TimelineConnector from '@mui/lab/TimelineConnector';
 import TimelineContent from '@mui/lab/TimelineContent';
 import TimelineDot from '@mui/lab/TimelineDot';
-import ExperienceCard from '../Cards/ExperienceCard';
-import { experiences } from '../../data/constants';
+import ExperienceCard from '../Cards/ExperinceCard';
+import { experiences } from '../../data/information';
 
 const Container = styled.div`
     display: flex;
