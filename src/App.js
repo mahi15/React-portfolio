@@ -21,8 +21,7 @@ const Body = styled.div`
 `
 
 const Wrapper = styled.div`
-  background: linear-gradient(to right top, #08639d, #185e96, #20598f, #265488, #2a4f81, #215586, #175b8a, #08618d, #007397, #00859e, #0096a0, #31a69f);
-  width: 100%;
+  background: linear-gradient(to right top, #295874, #25536f, #214e6a, #1d4a65, #194560, #144b66, #0d506b, #035670, #00687f, #007b8a, #008e93, #23a199);
   clip-path: polygon(0 0, 100% 0, 100% 100%,30% 98%, 0 100%);
 `
 function App() {
