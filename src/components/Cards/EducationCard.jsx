@@ -64,7 +64,7 @@ const Card = styled.div`
         -webkit-line-clamp: unset;
 
     }
-    border: 0.1px solid #854CE6;
+    border: 0.1px solid #D8ECEB;
 `
 
 const Top = styled.div`
@@ -93,7 +93,7 @@ const Body = styled.div`
 const Name = styled.div`
     font-size: 18px;
     font-weight: 600;
-    color: ${({ theme }) => theme.text_primary + 99};
+    color: ${({ theme }) => theme.text_primary};
     @media only screen and (max-width: 768px){
         font-size: 14px;
     }

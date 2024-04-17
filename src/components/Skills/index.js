@@ -79,7 +79,7 @@ const Skill = styled.div`
 const SkillTitle = styled.h2`
   font-size: 28px;
   font-weight: 600;
-  color: ${({ theme }) => theme.text_secondary};
+  color: ${({ theme }) => theme.white};
   margin-bottom: 20px;
   text-align: center;
 `
@@ -96,7 +96,7 @@ const SkillItem = styled.div`
   font-size: 16px;
   font-weight: 400;
   color: ${({ theme }) => theme.text_primary + 80};
-  border: 1px solid ${({ theme }) => theme.text_primary + 80};
+  border: 1px solid ${({ theme }) => theme.text_primary + 99};
   border-radius: 12px;
   padding: 12px 16px;
   display: flex;
