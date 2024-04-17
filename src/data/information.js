@@ -1,3 +1,5 @@
+import recipeBookSSImage from "../images/recipeBook.jpg";
+
 export const Bio = {
   name: "Mahaveer Dhayalan",
   roles: [
@@ -292,38 +294,33 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "",
-    date: "",
+    title: "Recipe Book Management",
+    date: "2021",
     description:
-      "",
-    image:
-      "",
+      "Manage your recipe book with crud operation with authentication",
+    image: recipeBookSSImage,
     tags: [
-      "React Js",
-      "PostgressSQL",
+      "Angular",
+      "Angular Material",
       "Node Js",
       "Express Js",
-      "Redux",
-      "React Flow",
+      "Firebase",
+      "RxJs",
+      "Github",
+      "Jwt"
     ],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/mahi15/recipe-book",
+    webapp: "https://shopping-cart-3f532.firebaseapp.com/auth",
   },
   {
     id: 1,
-    title: "",
-    date: "",
+    title: "Recipe Book Management",
+    date: "2021",
     description:
-      "",
-    image:
-      "",
+      "Manage your recipe book with crud operation with authentication",
+    image: recipeBookSSImage,
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
       "CI/CD",
       "React Js",
       "MongoDb",
