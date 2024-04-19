@@ -1,7 +1,7 @@
 {
   "name": "Mahaveer-Dhayalan-portfolio",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://mahi15.github.io/React-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
@@ -25,7 +25,6 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepages": "https://github.com/mahi15/React-portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
