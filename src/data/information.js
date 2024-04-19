@@ -307,7 +307,7 @@ export const projects = [
       "Firebase",
       "RxJs",
       "Github",
-      "Jwt"
+      "Firebase"
     ],
     category: "web app",
     github: "https://github.com/mahi15/recipe-book",
@@ -315,21 +315,22 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Recipe Book Management",
+    title: "Blog",
     date: "2021",
     description:
-      "Manage your recipe book with crud operation with authentication",
-    image: recipeBookSSImage,
+      "Add your post to the blog and much more features",
+    image: '',
     tags: [
       "CI/CD",
-      "React Js",
+      "Angular",
       "MongoDb",
       "Node Js",
       "Express Js",
-      "Redux",
+      "Angular Material",
+      "Flexbox"
     ],
     category: "web app",
-    github: "",
+    github: "https://github.com/mahi15/mean-stack",
     webapp: "",
   }
 ];
